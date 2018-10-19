@@ -1,0 +1,87 @@
+Package: com.kidsauto72.autolead
+Name: autolead
+Version: 7.2
+Architecture: iphoneos-arm
+Description: KidsAuto for IOS Model 9.2.1 - 10.2.1
+Maintainer: KidsAuto <kidsauto723@gmail.com>
+Author: CuongTran <kidsauto723@gmail.com>
+Sponsor: GitHub.com <github.com>
+Section: System
+Filename: ./Debs/autolead.deb
+Size: 243046
+MD5sum: d02e1a205e47b624df8d2f66e128f4b0
+Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,jetslammed,socat,com.cydiageek.coysim,com.kidsauto72.xcon,com.kidsauto72.hookkeyboard,com.kidsauto72.icontool,com.kidsauto72.locationfaker8910
+Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2
+
+Package: com.kidsauto72.icontool
+Name: Icon Tool
+Version: 1.9-5k
+Architecture: iphoneos-arm
+Description: App tools menu from jiggle mode
+Maintainer: KidsAuto <kidsauto723@gmail.com>
+Author: CuongTran <kidsauto723@gmail.com>
+Sponsor: GitHub.com <github.com>
+Section: Tweaks
+Filename: ./Debs/icontool_1.9-5k.deb
+Size: 384378
+MD5sum: ae836280e52d3cb46c0a0c4ee9cc6edf
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2)
+Conflicts: com.rpetrich.iconrenamer,vn.gsm.icontool
+
+Package: com.kidsauto72.hookkeyboard
+Name: hookkeyboard
+Version: 7.2
+Architecture: iphoneos-arm
+Description: Tweak for AutoLead  iOS 9.2.1 --- 10.2.1
+Maintainer: KidsAuto <kidsauto723@gmail.com>
+Author: CuongTran <kidsauto723@gmail.com>
+Sponsor: GitHub.com <github.com>
+Section: Tweaks
+Filename: ./Debs/hookkeyboard.deb
+Size: 331784
+MD5sum: 5b536b51c3142738f31b4a99a6eb48d8
+Depends: mobilesubstrate
+
+Package: com.kidsauto72.locationfaker8910
+Name: LocationFaker(8,9,10)
+Version: 2.0k
+Architecture: iphoneos-arm
+Description: Change your location using a map Cracked
+Maintainer: KidsAuto <kidsauto723@gmail.com>
+Author: Cunstuck <kidsauto723@gmail.com>
+Sponsor: GitHub.com <github.com>
+Section: Tweaks
+Filename: ./Debs/locationfaker8910.deb
+Size: 551072
+MD5sum: 77b3aecd8cc47f3cf2a7424849eed2ce
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: org.thebigboss.locationchangerx
+
+Package: com.kidsauto72.xcon
+Name: xCon
+Version: 42~beta1
+Architecture: iphoneos-arm
+Description: bypass anti-jailbreak protection
+Maintainer: KidsAuto <kidsauto723@gmail.com>
+Author: Lunatik <nofearlose@gmail.com>
+Sponsor: GitHub.com <github.com>
+Section: Tweaks
+Filename: ./Debs/xcon_42beta1.deb
+Size: 141906
+MD5sum: ac7ea3e8b14cd3f963cb5270fb6d2b19
+Depends: mobilesubstrate
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner,com.yourepo.cml.xcon,com.yourepo.viet.xcon
+
+Package: com.kidsauto.wTabwData
+Name: wTabwData
+Version: 0.0.1-50
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak for KidsAuto!
+Maintainer: KidsAuto <kidsauto723@gmail.com>
+Author: kidsauto.github.io/72
+Sponsor: GitHub.com <github.com>
+Section: Tweaks
+Filename: ./Debs/wTabwData.deb
+Size: 36090
+MD5sum: 17b9ca6b986e0891461ff946049f20d1
+Depends: mobilesubstrate

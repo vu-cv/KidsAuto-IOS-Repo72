@@ -1,0 +1,12 @@
+Origin: KidsAuto IOS Repo72
+Label: KidsAuto IOS Repo72
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: KidsAuto for IOS Model 9.2.1 - 10.2.1
+MD5Sum:
+ 94ec77bc8c14795fb770a9c39bcea263 3271 Packages
+ 379af5b371d765fd0d5f47460ccf14c3 1286 Packages.bz2
+ 910c1e0bb40ae1b71c76124152150935 1129 Packages.gz
